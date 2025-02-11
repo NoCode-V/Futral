@@ -110,3 +110,10 @@ h1 {
 .send {
   text-align: right;
 }
+
+@media only screen and (max-width: 600px) { 
+  .about, .contact, .gallery {
+    margin: 0% 2% 2% 2%;
+  }
+  
+}
